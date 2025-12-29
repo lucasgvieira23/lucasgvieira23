@@ -1,5 +1,28 @@
-Olá! ====================================================================== ======================================================================= Desenvolvedor Python júnior ----------------------- Estou aprendendo a programei há um ano, descobri que amo o desenvolvimento back end e busco minha primeira oportunidade de trabalho. * 🌍 Moro no Brasil * ✉️ Você pode entrar em contato comigo em [lucasg.vieira23@gmail.com](mailto:lucasg.vieira23@gmail.com) * 👥 Procuro colaborar em Projetos iniciantes.
+<p align="left">Olá!👋</p>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-</p>
+###
+
+<p align="left">Sobre mim:<br>Comecei a aprender programação há um ano e me apaixonei pelo desenvolvimento backend.</p>
+
+###
+
+<p align="left">Developer júnior</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-0a2a173a1 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:lucasg.vieira23@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
