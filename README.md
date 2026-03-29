@@ -7,7 +7,7 @@
 <ul>
 <li><a target="_blank" href="https://github.com/lucasgvieira23/sistema-bancario-python/blob/main/Sistema%20de%20banco.py">Sistema bancário em Python</a></li>
 <h2>⚡️ Where to find me</h2>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-gabriel-0a2a173a1/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-gabriel-0a2a173a1/?skipRedirect=true" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
