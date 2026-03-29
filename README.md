@@ -1,59 +1,12 @@
-# 👋 Olá, eu sou o Lucas
+<h1># 👋 Olá, eu sou o Lucas | Desenvolvedor Fullstack em formação</h1>
+<p>💻 Desenvolvedor Fullstack em formação focado em Node.js, React e APIs</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://github.com/lucasgvieira23/sistema-bancario-python/blob/main/Sistema%20de%20banco.py">Sistema bancário em Python</a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-gabriel-0a2a173a1/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
-💻 Desenvolvedor em formação com foco em desenvolvimento **Fullstack**
-
-🚀 Atualmente evoluindo em:
-
-* JavaScript, Node.js e React
-* Desenvolvimento de APIs
-* Lógica de programação e estrutura de dados
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante apaixonado por tecnologia e desenvolvimento de software.
-Já desenvolvi projetos práticos utilizando **frontend e backend**, buscando sempre evoluir minhas habilidades e construir soluções reais.
-
-🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e crescer na área.
-
----
-
-## 🛠️ Tecnologias
-
-* JavaScript
-* Python
-* Node.js
-* React
-* Git e GitHub
-
----
-
-## 🚀 Projetos em destaque
-
-📌 Em constante evolução — foco em projetos práticos e aplicados:
-
-* 🔹 Sistema de estudos (em desenvolvimento)
-* 🔹 API REST com Node.js
-* 🔹 Projetos web com React
-* 🔹 Aplicações utilizando lógica de programação
-
----
-
-## 📈 Atualmente
-
-* 📚 Estudando desenvolvimento web fullstack
-* 🛠️ Melhorando meus projetos no GitHub
-* 🚀 Buscando minha primeira oportunidade como dev
-
----
-
-## 📫 Contato
-
-* LinkedIn: (coloque aqui)
-* Email: (opcional)
-
----
-
-⭐ Sempre buscando evoluir e aprender mais a cada dia
 
