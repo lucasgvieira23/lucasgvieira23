@@ -1,28 +1,59 @@
-<p align="left">Olá!👋</p>
+# 👋 Olá, eu sou o Lucas
 
-###
+💻 Desenvolvedor em formação com foco em desenvolvimento **Fullstack**
 
-<p align="left">Sobre mim:<br>Comecei a aprender programação há um ano e me apaixonei pelo desenvolvimento backend.</p>
+🚀 Atualmente evoluindo em:
 
-###
+* JavaScript, Node.js e React
+* Desenvolvimento de APIs
+* Lógica de programação e estrutura de dados
 
-<p align="left">Developer júnior</p>
+---
 
-###
+## 🧠 Sobre mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+Sou estudante apaixonado por tecnologia e desenvolvimento de software.
+Já desenvolvi projetos práticos utilizando **frontend e backend**, buscando sempre evoluir minhas habilidades e construir soluções reais.
 
-###
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e crescer na área.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-gabriel-0a2a173a1 " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:lucasg.vieira23@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tecnologias
+
+* JavaScript
+* Python
+* Node.js
+* React
+* Git e GitHub
+
+---
+
+## 🚀 Projetos em destaque
+
+📌 Em constante evolução — foco em projetos práticos e aplicados:
+
+* 🔹 Sistema de estudos (em desenvolvimento)
+* 🔹 API REST com Node.js
+* 🔹 Projetos web com React
+* 🔹 Aplicações utilizando lógica de programação
+
+---
+
+## 📈 Atualmente
+
+* 📚 Estudando desenvolvimento web fullstack
+* 🛠️ Melhorando meus projetos no GitHub
+* 🚀 Buscando minha primeira oportunidade como dev
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (coloque aqui)
+* Email: (opcional)
+
+---
+
+⭐ Sempre buscando evoluir e aprender mais a cada dia
+
