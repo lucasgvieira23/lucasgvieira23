@@ -54,4 +54,4 @@ Python → POO → Git/GitHub → SQL → APIs REST → FastAPI → Banco de Dad
 
 ## 📫 Contato
 
-LinkedIn: coloque seu link aqui
+LinkedIn: [Lucas Gabriel](https://www.linkedin.com/in/lucas-gabriel-0a2a173a1/)
