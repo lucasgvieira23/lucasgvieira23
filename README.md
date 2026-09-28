@@ -1,54 +1,57 @@
-<h1>👋 Olá, eu sou o Lucas | Desenvolvedor Fullstack em formação</h1>
+# 👋 Olá, eu sou Lucas Gabriel
 
-<p>💻 Desenvolvedor Fullstack em formação focado em <strong>Node.js, React e APIs</strong></p>
+🎓 Estudante de **Sistemas de Informação na UFRPE**  
+💻 Desenvolvedor **Backend em formação**  
+🐍 Atualmente focado em **Python**
 
-<hr>
+## 👨‍💻 Sobre mim
 
-<h2>🧠 Sobre mim</h2>
-<p>
-Sou um desenvolvedor em formação apaixonado por tecnologia e desenvolvimento web.  
-Atualmente estou evoluindo minhas habilidades com projetos práticos utilizando <strong>JavaScript, Python, Node.js e React</strong>.
-</p>
+Sou estudante de Sistemas de Informação e estou construindo minha formação na área de desenvolvimento de software.
 
-<hr>
+Tenho conhecimentos em lógica de programação e Python e atualmente estou aprofundando meus estudos em desenvolvimento backend, orientação a objetos, Git/GitHub, bancos de dados e APIs.
 
-<h2>🚀 Tecnologias e Ferramentas</h2>
+Meu objetivo é conquistar minha primeira oportunidade de estágio em tecnologia e continuar evoluindo através de projetos práticos.
 
-<p>
-<a target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/>
-</a>
-<a target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
-</a>
-<a target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
-</a>
-<a target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/>
-</a>
-</p>
+## 🛠️ Tecnologias e conhecimentos
 
-<hr>
+- Python
+- Lógica de Programação
+- Git e GitHub
+- JavaScript básico
 
-<h2>🚀 Projetos em destaque</h2>
+## 📚 Atualmente estudando
 
-<ul>
-<li>
-<a target="_blank" href="https://github.com/lucasgvieira23/sistema-bancario-python">
-💰 Sistema Bancário em Python
-</a><br>
-Simulação de sistema bancário com operações de saque, depósito e extrato.
-</li>
-</ul>
+- Programação Orientada a Objetos
+- SQL
+- Desenvolvimento Backend com Python
+- APIs REST
 
-<hr>
+## 🚀 Projetos em destaque
 
-<h2>⚡ Onde me encontrar</h2>
+### 💰 Sistema Bancário em Python
 
-<a href="https://www.linkedin.com/in/lucas-gabriel-0a2a173a1/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+Sistema desenvolvido em Python para praticar lógica de programação e simular operações bancárias como:
 
+- Depósito
+- Saque
+- Consulta de saldo
+- Extrato
+- Validação de operações
 
+O projeto está sendo evoluído conforme avanço nos estudos de Python e desenvolvimento backend.
 
+### 🎮 Jokenpô em Python
+
+Jogo de Pedra, Papel e Tesoura desenvolvido em Python utilizando estruturas condicionais, repetição e geração de valores aleatórios.
+
+## 🎯 Objetivo atual
+
+Busco minha primeira oportunidade de **estágio em desenvolvimento de software**, onde possa aplicar meus conhecimentos, aprender com uma equipe de desenvolvimento e evoluir profissionalmente.
+
+## 🧭 Próximos passos
+
+Python → POO → Git/GitHub → SQL → APIs REST → FastAPI → Banco de Dados
+
+## 📫 Contato
+
+LinkedIn: coloque seu link aqui
